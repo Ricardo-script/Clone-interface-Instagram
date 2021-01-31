@@ -1662,6 +1662,21 @@
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
 
+"@react-native-community/picker@^1.8.1":
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/@react-native-community/picker/-/picker-1.8.1.tgz#94f14f0aad98fa7592967b941be97deec95c3805"
+  integrity sha512-Sj9DzX1CSnmYiuEQ5fQhExoo4XjSKoZkqLPAAybycq6RHtCuWppf+eJXRMCOJki25BlKSSt+qVqg0fIe//ujNQ==
+
+"@react-native-community/slider@3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@react-native-community/slider/-/slider-3.0.3.tgz#830167fd757ba70ac638747ba3169b2dbae60330"
+  integrity sha512-8IeHfDwJ9/CTUwFs6x90VlobV3BfuPgNLjTgC6dRZovfCWigaZwVNIFFJnHBakK3pW2xErAPwhdvNR4JeNoYbw==
+
+"@react-native-picker/picker@1.9.2":
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/@react-native-picker/picker/-/picker-1.9.2.tgz#c5e35f97d7982d2971ee3d74b1ba8ecf4b716627"
+  integrity sha512-eNMf5uF67CsiJ9SDzofSWKu9Gh2PDyPbCSXuUJ09tkRgcOefDx6DyQnXCOPCd+8vxC1DzJKVAgLy+s425jUIeA==
+
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.3.tgz#4ba8ddb720221f432e443bd5f9117fd22cfd4762"
